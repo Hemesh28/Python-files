@@ -1,0 +1,8 @@
+print("a5".isalnum())
+print("abc".isalpha())
+print("5".isdigit())
+print("abc".islower())
+print("\t".isspace())
+print("Welcome people ".istitle())
+print("EDUCATION".isupper())
+# print("a5".isalnum())
